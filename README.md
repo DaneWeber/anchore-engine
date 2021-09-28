@@ -131,3 +131,4 @@ to configure git-blame to use the provided file:  .git-blame-ignore-revs as a li
 
 Set your local git configuration to use the provided file by running this from within the root of this source tree:
 `git config blame.ignoreRevsFile .git-blame-ignore-revs`
+
